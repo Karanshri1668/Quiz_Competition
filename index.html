@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>History Week Quiz</title>
+  <link rel="stylesheet" href="styles.css">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+  <div class="container">
+    <!-- <h1>📜 Welcome to History Week Quiz Competition</h1> -->
+    <h1>📜 One Week. One Quiz. One Champion.</h1>
+    <p>Select your preferred Era and Difficulty to begin:</p>
+
+    <div class="selectors">
+      <div class="dropdown">
+        <label for="topic">Choose Era:</label>
+        <select id="topic">
+          <option value="allsec">All Section</option>
+          <option value="ancient">Ancient India</option>
+          <option value="medieval">Medieval India</option>
+          <option value="modern">Modern India</option>
+          <option value="indian">Indian History</option>
+          <option value="archaeology">Archaeology</option>
+        </select>
+      </div>
+      <div class="dropdown">
+        <label for="level">Choose Level:</label>
+        <select id="level">
+          <option value="easy">Easy</option>
+          <option value="medium">Medium</option>
+          <option value="hard">Hard</option>
+        </select>
+      </div>
+    </div>
+
+    <button id="startQuiz">Start Quiz 🚀</button>
+    <button id="toggleTheme">🌓 Toggle Theme</button>
+  </div>
+
+  <script>
+    document.getElementById('startQuiz').onclick = () => {
+      const topic = document.getElementById('topic').value;
+      const level = document.getElementById('level').value;
+      window.location.href = `quiz.html?topic=${topic}&level=${level}`;
+    };
+
+    document.getElementById('toggleTheme').onclick = () => {
+      document.body.classList.toggle('dark-theme');
+      localStorage.setItem('theme', document.body.classList.contains('dark-theme') ? 'dark' : 'light');
+    };
+
+    // Apply saved theme
+    if (localStorage.getItem('theme') === 'dark') {
+      document.body.classList.add('dark-theme');
+    }
+  </script>
+</body>
+</html>

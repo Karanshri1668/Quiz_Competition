@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz - History Week</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <button onclick="window.location.href='index.html'">🔙 Back to Era Selection</button>
+    <h2 id="questionNumber">Question 1</h2>
+    <p id="feedback" style="text-align: center; font-size: 1.2rem; font-weight: bold;"></p>
+    <p id="questionText">Loading question...</p>
+
+    <div id="optionsContainer"></div>
+
+    <div style="margin-top: 20px;">
+      <button id="checkAnswer" disabled>Check</button>
+      <button id="skipQuestion">Skip</button>
+      <button id="nextQuestion" style="display:none">Next</button>
+    </div>
+  </div>
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,308 @@
+{
+  "easy": [
+    {
+      "question": "Who is known as the Father of the Indian Nation?",
+      "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Mahatma Gandhi", "Bal Gangadhar Tilak"],
+      "answer": 2
+    },
+    {
+      "question": "In which year did India gain independence?",
+      "options": ["1945", "1947", "1950", "1952"],
+      "answer": 1
+    },
+    {
+      "question": "Who was the first Prime Minister of independent India?",
+      "options": ["Dr. Rajendra Prasad", "Sardar Patel", "Jawaharlal Nehru", "Lal Bahadur Shastri"],
+      "answer": 2
+    },
+    {
+      "question": "What was the main objective of the Non-Cooperation Movement?",
+      "options": ["Industrial growth", "Religious harmony", "Self-rule", "Support British government"],
+      "answer": 2
+    },
+    {
+      "question": "Which party led the Indian independence movement?",
+      "options": ["BJP", "CPI", "Indian National Congress", "RSS"],
+      "answer": 2
+    },
+    {
+      "question": "Who was the first President of India?",
+      "options": ["Jawaharlal Nehru", "Dr. Rajendra Prasad", "B.R. Ambedkar", "Sardar Patel"],
+      "answer": 1
+    },
+    {
+      "question": "The Quit India Movement was launched in which year?",
+      "options": ["1942", "1930", "1920", "1947"],
+      "answer": 0
+    },
+    {
+      "question": "Which Act introduced the system of dyarchy in provinces?",
+      "options": ["Indian Councils Act 1909", "Government of India Act 1919", "Government of India Act 1935", "Charter Act 1833"],
+      "answer": 1
+    },
+    {
+      "question": "Which freedom fighter formed the Indian National Army?",
+      "options": ["Bhagat Singh", "Lala Lajpat Rai", "Subhas Chandra Bose", "Jawaharlal Nehru"],
+      "answer": 2
+    },
+    {
+      "question": "When was the Constitution of India adopted?",
+      "options": ["15th August 1947", "26th January 1950", "2nd October 1949", "26th November 1949"],
+      "answer": 3
+    },
+    {
+      "question": "Who was the British Viceroy during the partition of Bengal in 1905?",
+      "options": ["Lord Mountbatten", "Lord Curzon", "Lord Ripon", "Lord Canning"],
+      "answer": 1
+    },
+    {
+      "question": "Which movement was launched after the Jallianwala Bagh massacre?",
+      "options": ["Khilafat Movement", "Civil Disobedience Movement", "Non-Cooperation Movement", "Quit India Movement"],
+      "answer": 2
+    },
+    {
+      "question": "Who wrote the book ‘Discovery of India’?",
+      "options": ["B.R. Ambedkar", "Subhas Chandra Bose", "Jawaharlal Nehru", "Rajagopalachari"],
+      "answer": 2
+    },
+    {
+      "question": "Which organization was established by B.R. Ambedkar?",
+      "options": ["Harijan Sevak Sangh", "Scheduled Castes Federation", "Indian National Congress", "Arya Samaj"],
+      "answer": 1
+    },
+    {
+      "question": "Where was Mahatma Gandhi born?",
+      "options": ["Ahmedabad", "Porbandar", "Rajkot", "Wardha"],
+      "answer": 1
+    },
+    {
+      "question": "Which Prime Minister gave the slogan 'Garibi Hatao'?",
+      "options": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Indira Gandhi", "Rajiv Gandhi"],
+      "answer": 2
+    },
+    {
+      "question": "Who designed the Indian national flag?",
+      "options": ["Pingali Venkayya", "Ravindra Tagore", "Bipin Chandra Pal", "Bhagat Singh"],
+      "answer": 0
+    },
+    {
+      "question": "The Dandi March was started from which place?",
+      "options": ["Ahmedabad", "Sabarmati", "Mumbai", "Wardha"],
+      "answer": 1
+    },
+    {
+      "question": "Which British Governor-General abolished Sati?",
+      "options": ["Lord Curzon", "Lord Dalhousie", "Lord William Bentinck", "Lord Canning"],
+      "answer": 2
+    },
+    {
+      "question": "Who gave the slogan 'Inquilab Zindabad'?",
+      "options": ["Mahatma Gandhi", "Subhas Chandra Bose", "Sardar Patel", "Bhagat Singh"],
+      "answer": 3
+    }
+  ],
+  "medium": [
+    {
+      "question": "Who was the leader of the revolt of 1857 in Kanpur?",
+      "options": ["Bahadur Shah Zafar", "Tantia Tope", "Nana Sahib", "Rani Lakshmibai"],
+      "answer": 2
+    },
+    {
+      "question": "Which act divided Bengal in 1905?",
+      "options": ["Charter Act 1853", "Indian Councils Act 1909", "Partition of Bengal Act", "Government of India Act 1919"],
+      "answer": 2
+    },
+    {
+      "question": "Which mission came to India in 1942?",
+      "options": ["Cripps Mission", "Simon Commission", "Cabinet Mission", "Wavell Plan"],
+      "answer": 0
+    },
+    {
+      "question": "Who presided over the Lahore session of 1929?",
+      "options": ["Sardar Vallabhbhai Patel", "Subhas Chandra Bose", "Mahatma Gandhi", "Jawaharlal Nehru"],
+      "answer": 3
+    },
+    {
+      "question": "The Rowlatt Act was passed in which year?",
+      "options": ["1917", "1918", "1919", "1920"],
+      "answer": 2
+    },
+    {
+      "question": "The Simon Commission was boycotted because:",
+      "options": ["It did not include Indians", "It was pro-British", "It was against Congress", "It was secretive"],
+      "answer": 0
+    },
+    {
+      "question": "Who founded the Indian Home Rule League in 1916?",
+      "options": ["Annie Besant", "Tilak", "Gokhale", "Gandhi"],
+      "answer": 0
+    },
+    {
+      "question": "What was the capital of British India before Delhi?",
+      "options": ["Mumbai", "Kolkata", "Chennai", "Lucknow"],
+      "answer": 1
+    },
+    {
+      "question": "Who coined the term 'Drain of Wealth'?",
+      "options": ["Dadabhai Naoroji", "Gandhi", "Tilak", "Ambedkar"],
+      "answer": 0
+    },
+    {
+      "question": "Which Governor-General introduced railways in India?",
+      "options": ["Lord Canning", "Lord Dalhousie", "Lord Ripon", "Lord Curzon"],
+      "answer": 1
+    },
+    {
+      "question": "Who established the Forward Bloc?",
+      "options": ["Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose", "Lala Lajpat Rai"],
+      "answer": 2
+    },
+    {
+      "question": "In which year did India become a republic?",
+      "options": ["1947", "1950", "1949", "1952"],
+      "answer": 1
+    },
+    {
+      "question": "Which commission recommended reservation for SC/STs?",
+      "options": ["Mandate Commission", "Kothari Commission", "Kalelkar Commission", "Simon Commission"],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of Plassey was fought in?",
+      "options": ["1757", "1761", "1857", "1748"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the last Viceroy of India?",
+      "options": ["Lord Curzon", "Lord Irwin", "Lord Mountbatten", "Lord Linlithgow"],
+      "answer": 2
+    },
+    {
+      "question": "Who wrote 'Hind Swaraj'?",
+      "options": ["Tilak", "Gandhi", "Ambedkar", "Patel"],
+      "answer": 1
+    },
+    {
+      "question": "When was the First Round Table Conference held?",
+      "options": ["1930", "1931", "1932", "1929"],
+      "answer": 0
+    },
+    {
+      "question": "Which political party was formed in 1885?",
+      "options": ["RSS", "BJP", "INC", "CPI"],
+      "answer": 2
+    },
+    {
+      "question": "When did Gandhi launch the Salt March?",
+      "options": ["1928", "1930", "1942", "1931"],
+      "answer": 1
+    },
+    {
+      "question": "Which leader was also called the 'Iron Man of India'?",
+      "options": ["Subhas Chandra Bose", "Sardar Patel", "Lal Bahadur Shastri", "Rajaji"],
+      "answer": 1
+    }
+  ],
+  "hard": [
+    {
+      "question": "The Cabinet Mission Plan arrived in India in?",
+      "options": ["1945", "1946", "1947", "1942"],
+      "answer": 1
+    },
+    {
+      "question": "Which of these was a British military operation against Indian freedom fighters?",
+      "options": ["Operation Blue Star", "Operation Polo", "Operation Meghdoot", "Operation Thunderbolt"],
+      "answer": 3
+    },
+    {
+      "question": "Who was the leader of the Ghadar Party?",
+      "options": ["Bhagat Singh", "Lala Lajpat Rai", "Lala Hardayal", "Savarkar"],
+      "answer": 2
+    },
+    {
+      "question": "The Ilbert Bill controversy took place during the rule of?",
+      "options": ["Lord Ripon", "Lord Lytton", "Lord Curzon", "Lord Canning"],
+      "answer": 0
+    },
+    {
+      "question": "The Poona Pact was signed between Gandhi and?",
+      "options": ["Jinnah", "Tilak", "Ambedkar", "Malaviya"],
+      "answer": 2
+    },
+    {
+      "question": "Who wrote 'India Wins Freedom'?",
+      "options": ["Gandhi", "Nehru", "Maulana Azad", "Patel"],
+      "answer": 2
+    },
+    {
+      "question": "What was the original name of INA?",
+      "options": ["Indian Defence Army", "Azad Hind Fauj", "Free India Force", "People’s Army"],
+      "answer": 1
+    },
+    {
+      "question": "Who led the Bardoli Satyagraha?",
+      "options": ["Sardar Patel", "Gandhi", "Tilak", "Motilal Nehru"],
+      "answer": 0
+    },
+    {
+      "question": "The Vernacular Press Act was passed by?",
+      "options": ["Lord Canning", "Lord Lytton", "Lord Curzon", "Lord Dalhousie"],
+      "answer": 1
+    },
+    {
+      "question": "Which session of the Congress declared 'Purna Swaraj'?",
+      "options": ["Mumbai 1920", "Lahore 1929", "Karachi 1931", "Lucknow 1916"],
+      "answer": 1
+    },
+    {
+      "question": "The Hunter Commission was related to?",
+      "options": ["Jallianwala Bagh", "Railway reforms", "Salt March", "Partition"],
+      "answer": 0
+    },
+    {
+      "question": "Who started the newspaper 'Kesari'?",
+      "options": ["Lala Lajpat Rai", "Bal Gangadhar Tilak", "Mahatma Gandhi", "Gopal Krishna Gokhale"],
+      "answer": 1
+    },
+    {
+      "question": "Which party was founded by Jawaharlal Nehru in 1936?",
+      "options": ["Indian National Congress", "Congress Socialist Party", "Forward Bloc", "Swatantra Party"],
+      "answer": 1
+    },
+    {
+      "question": "Gandhiji's first major movement in India?",
+      "options": ["Non-Cooperation", "Champaran Satyagraha", "Salt March", "Khilafat"],
+      "answer": 1
+    },
+    {
+      "question": "Which act made the Governor-General the direct ruler of India?",
+      "options": ["Pitt’s India Act", "Regulating Act", "Act of 1858", "Charter Act"],
+      "answer": 2
+    },
+    {
+      "question": "When was the Indian Councils Act passed?",
+      "options": ["1858", "1861", "1892", "1909"],
+      "answer": 3
+    },
+    {
+      "question": "Who founded the Servants of India Society?",
+      "options": ["Tilak", "Gokhale", "Gandhi", "Rajagopalachari"],
+      "answer": 1
+    },
+    {
+      "question": "The Treaty of Bassein was signed in?",
+      "options": ["1802", "1818", "1799", "1824"],
+      "answer": 0
+    },
+    {
+      "question": "The 1935 Act proposed?",
+      "options": ["Federation", "Partition", "Independent India", "None"],
+      "answer": 0
+    },
+    {
+      "question": "Who gave the slogan 'Do or Die'?",
+      "options": ["Patel", "Nehru", "Gandhi", "Bose"],
+      "answer": 2
+    }
+  ]
+}

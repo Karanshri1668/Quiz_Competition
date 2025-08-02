@@ -1,0 +1,318 @@
+{
+  "easy": [
+    {
+      "question": "Who founded the Delhi Sultanate in 1206?",
+      "options": ["Alauddin Khilji", "Qutb al-Din Aibak", "Muhammad bin Tughlaq", "Iltutmish"],
+      "answer": 1
+    },
+    {
+      "question": "Which monument was built by Qutb al-Din Aibak?",
+      "options": ["Taj Mahal", "Red Fort", "Qutub Minar", "Fatehpur Sikri"],
+      "answer": 2
+    },
+    {
+      "question": "Which Sultan moved the capital from Delhi to Daulatabad?",
+      "options": ["Alauddin Khilji", "Iltutmish", "Muhammad bin Tughlaq", "Babur"],
+      "answer": 2
+    },
+    {
+      "question": "Who introduced the Diwan-i-Kohi system?",
+      "options": ["Sher Shah Suri", "Akbar", "Alauddin Khilji", "Aurangzeb"],
+      "answer": 0
+    },
+    {
+      "question": "Which emperor founded the Mughal Empire in India?",
+      "options": ["Humayun", "Akbar", "Babur", "Jahangir"],
+      "answer": 2
+    },
+    {
+      "question": "Which ruler built Humayun’s Tomb?",
+      "options": ["Akbar", "Shah Jahan", "Babur", "Humayun’s son"],
+      "answer": 3
+    },
+    {
+      "question": "Who was Akbar’s famous finance minister?",
+      "options": ["Raja Todar Mal", "Birbal", "Abul Fazl", "Raja Raja"],
+      "answer": 0
+    },
+    {
+      "question": "Which system of land revenue was introduced by Akbar?",
+      "options": ["Zabt", "Madad-i-Maash", "Ain", "Mansabadari"],
+      "answer": 0
+    },
+    {
+      "question": "Who compiled the Ain-i-Akbari and Akbarnama?",
+      "options": ["Birbal", "Abul Fazl", "Raja Todar Mal", "Faqir Aziz"],
+      "answer": 1
+    },
+    {
+      "question": "Which Sultan determined the Hindustani coin called Tanka?",
+      "options": ["Alauddin Khilji", "Sher Shah Suri", "Iltutmish", "Ashoka"],
+      "answer": 2
+    },
+    {
+      "question": "Which ruler established the Mughal painting school?",
+      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+      "answer": 0
+    },
+    {
+      "question": "Where is the Adil Shahi dynasty based?",
+      "options": ["Golkonda", "Bijapur", "Ahmedabad", "Jaunpur"],
+      "answer": 1
+    },
+    {
+      "question": "Who introduced the Jizya tax in Delhi Sultanate?",
+      "options": ["Alauddin Khilji", "Iltutmish", "Firoz Shah Tughlaq", "Balban"],
+      "answer": 2
+    },
+    {
+      "question": "The Khilji dynasty belonged to which period?",
+      "options": ["14th century", "13th century", "12th century", "15th century"],
+      "answer": 0
+    },
+    {
+      "question": "Who defeated Rana Pratap at the Battle of Haldighati?",
+      "options": ["Akbar", "Babur", "Sher Shah Suri", "Humayun"],
+      "answer": 0
+    },
+    {
+      "question": "Which ruler built the Jama Masjid in Delhi?",
+      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+      "answer": 2
+    },
+    {
+      "question": "Which Mughal ruler faced the Revolt of the Satnami?",
+      "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Humayun"],
+      "answer": 1
+    },
+    {
+      "question": "Who built the city of Fatehpur Sikri?",
+      "options": ["Akbar", "Humayun", "Jahangir", "Babur"],
+      "answer": 0
+    },
+    {
+      "question": "Who founded the Vijayanagara Empire in South India?",
+      "options": ["Harihara I", "Krishnadevaraya", "Rama Raja I", "Deva Raya"],
+      "answer": 0
+    },
+    {
+      "question": "Which battle marked the fall of Vijayanagara Empire?",
+      "options": ["Battle of Talikota", "Battle of Panipat", "Battle of Haldighati", "Battle of Plassey"],
+      "answer": 0
+    }
+  ],
+  "medium": [
+    {
+      "question": "Which treaty ended the first Anglo-Mysore War?",
+      "options": ["Treaty of Seringapatam", "Treaty of Madras", "Treaty of Mangalore", "Treaty of Wandiwash"],
+      "answer": 2
+    },
+    {
+      "question": "Who built the famous Charminar?",
+      "options": ["Qutb Shah", "Muhammad bin Tughlaq", "Sher Shah Suri", "Vijayanagara Kings"],
+      "answer": 0
+    },
+    {
+      "question": "Under which ruler did Din-i-Ilahi religion begin?",
+      "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Babur"],
+      "answer": 0
+    },
+    {
+      "question": "The Battle of Panipat in 1526 was fought between Babur and?",
+      "options": ["Sher Shah Suri", "Ibrahim Lodi", "Humayun", "Rana Sanga"],
+      "answer": 1
+    },
+    {
+      "question": "Which ruler abolished the land revenue system of Sher Shah Suri?",
+      "options": ["Akbar", "Humayun", "Aurangzeb", "Jahangir"],
+      "answer": 0
+    },
+    {
+      "question": "Who wrote Tuzuk-i-Jahangiri?",
+      "options": ["Jahangir", "Akbar", "Babur", "Aurangzeb"],
+      "answer": 0
+    },
+    {
+      "question": "Which Sultan of Delhi had a city named after him: Firozabad?",
+      "options": ["Firoz Shah Tughlaq", "Alauddin Khilji", "Iltutmish", "Humayun"],
+      "answer": 0
+    },
+    {
+      "question": "Which Mughal emperor forbade the construction of new temples?",
+      "options": ["Humayun", "Aurangzeb", "Shah Jahan", "Akbar"],
+      "answer": 1
+    },
+    {
+      "question": "Who introduced the Muskwater system in medieval India?",
+      "options": ["Sher Shah Suri", "Akbar", "Firoz Shah Tughlaq", "Aurangzeb"],
+      "answer": 2
+    },
+    {
+      "question": "The Ain-i-Dahsala revenue system was introduced by?",
+      "options": ["Sher Shah Suri", "Akbar", "Humayun", "Jahangir"],
+      "answer": 0
+    },
+    {
+      "question": "Who built the tomb of Sher Shah Suri?",
+      "options": ["Sher Shah Suri", "Humayun", "Akbar", "Jahangir"],
+      "answer": 0
+    },
+    {
+      "question": "Which Afghan ruler introduced the Shahi dynasty in Delhi?",
+      "options": ["Mahmud of Ghazni", "Muhammad Ghori", "Alauddin Khilji", "Ibrahim Lodi"],
+      "answer": 1
+    },
+    {
+      "question": "Who constructed the Qila-i-Kuhna mosque?",
+      "options": ["Sher Shah Suri", "Humayun", "Ghiyasuddin Tughlaq", "Firoz Shah Tughlaq"],
+      "answer": 0
+    },
+    {
+      "question": "Which ruler issued the farman for abolishing Jizya in 1564?",
+      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+      "answer": 0
+    },
+    {
+      "question": "Who was given the title 'Ghazi' after defeating the Mongols in India?",
+      "options": ["Alauddin Khilji", "Muhammad bin Tughlaq", "Timur", "Babur"],
+      "answer": 0
+    },
+    {
+      "question": "Which ruler shifted capital to Shahjahanabad?",
+      "options": ["Jahangir", "Shah Jahan", "Aurangzeb", "Akbar"],
+      "answer": 1
+    },
+    {
+      "question": "The Mewat region witnessed revolt under which leader?",
+      "options": ["Rana Sanga", "Hemu", "Nadeger Khan", "Khan Zaman"],
+      "answer": 2
+    },
+    {
+      "question": "Who authored the Baburnama?",
+      "options": ["Babur", "Akbar", "Jahangir", "Humayun"],
+      "answer": 0
+    },
+    {
+      "question": "Which Mughal ruler built Diwan-i-Aam and Diwan-i-Khas?",
+      "options": ["Shah Jahan", "Akbar", "Jahangir", "Aurangzeb"],
+      "answer": 0
+    },
+    {
+      "question": "Which ruler annexed Gujarat in 1573?",
+      "options": ["Akbar", "Humayun", "Babur", "Jahangir"],
+      "answer": 0
+    },
+    {
+      "question": "Who defeated Bahadur Shah Zafar on the frontier of India?",
+      "options": ["Sikandar Lodi", "Aurangzeb", "Robert Clive", "Lord Cornwallis"],
+      "answer": 2
+    }
+  ],
+  "hard": [
+    {
+      "question": "Which Mughal emperor was known as 'Padishah-i-Hind'?",
+      "options": ["Nur Jahan", "Shah Jahan", "Akbar", "Aurangzeb"],
+      "answer": 2
+    },
+    {
+      "question": "The concept of 'Sulh-i-Kul' (universal tolerance) was propagated by?",
+      "options": ["Aurangzeb", "Akbar", "Jahangir", "Humayun"],
+      "answer": 1
+    },
+    {
+      "question": "The foundation of Fatehpur Sikri was laid in which year?",
+      "options": ["1571", "1569", "1585", "1575"],
+      "answer": 1
+    },
+    {
+      "question": "Who introduced Persian as court language in Delhi Sultanate?",
+      "options": ["Alauddin Khilji", "Iltutmish", "Qutb al-Din Aibak", "Balban"],
+      "answer": 2
+    },
+    {
+      "question": "Which ruler’s tomb has the famous Lotus motif?",
+      "options": ["Humayun", "Akbar", "Babur", "Shah Jahan"],
+      "answer": 0
+    },
+    {
+      "question": "Which 16th-century battle solidified Mughal power in North India?",
+      "options": ["Talikota", "Panipat (1556)", "Haldighati", "Plassey"],
+      "answer": 1
+    },
+    {
+      "question": "Which Sultan of Delhi translated Sanskrit works into Persian?",
+      "options": ["Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Iltutmish", "Alauddin Khilji"],
+      "answer": 1
+    },
+    {
+      "question": "The Persian ambassador Abd al‑Rahim visited India during whose reign?",
+      "options": ["Humayun", "Akbar", "Shah Jahan", "Aurangzeb"],
+      "answer": 1
+    },
+    {
+      "question": "Abul Hasan was the last ruler of which dynasty?",
+      "options": ["Vijayanagara", "Adil Shahi", "Nizam Shahi", "Bahmani"],
+      "answer": 1
+    },
+    {
+      "question": "Who led the rebellion of Jhansi during 1857?",
+      "options": ["Rani Lakshmibai", "Jhalkaribai", "Tatya Tope", "Nana Sahib"],
+      "answer": 0
+    },
+    {
+      "question": "Which architectural style flourished under Shah Jahan?",
+      "options": ["Deccan", "Mughal", "Maratha", "Vijayanagara"],
+      "answer": 1
+    },
+    {
+      "question": "Which Sultan built the fortified city of Siri in Delhi?",
+      "options": ["Alauddin Khilji", "Iltutmish", "Feroz Shah Tughlaq", "Balban"],
+      "answer": 0
+    },
+    {
+      "question": "Source of Ain-i-Akbari is primarily based on which religion?",
+      "options": ["Islam", "Hinduism", "Zoroastrianism", "Jainism"],
+      "answer": 1
+    },
+    {
+      "question": "Who reorganized the administration through Mansabdari system?",
+      "options": ["Akbar", "Shah Jahan", "Jahangir", "Aurangzeb"],
+      "answer": 0
+    },
+    {
+      "question": "The Bijapur Sultanate was founded by which dynasty?",
+      "options": ["Adil Shahi", "Qutb Shahi", "Barid Shahi", "Sultanate of Jaunpur"],
+      "answer": 0
+    },
+    {
+      "question": "Which chieftain led the resistance against Shah Jahan at Deccan?",
+      "options": ["Raja of Golconda", "Tukojirao Holkar", "Peshwa", "Nizam-ul-Mulk"],
+      "answer": 0
+    },
+    {
+      "question": "Which emperor shifted capital from Agra to Delhi in 1638?",
+      "options": ["Jahangir", "Akbar", "Shah Jahan", "Aurangzeb"],
+      "answer": 2
+    },
+    {
+      "question": "Which rebellion was quelled by Aurangzeb in 1680s?",
+      "options": ["Satnami revolt", "Maratha revolt", "Sikh rebellion", "Rajput revolt"],
+      "answer": 0
+    },
+    {
+      "question": "The Persian Embassy of Hamid‑ud‑Zafar visited India under?",
+      "options": ["Humayun", "Akbar", "Jahangir", "Aurangzeb"],
+      "answer": 3
+    },
+    {
+      "question": "Who wrote 'Ain‑i‑Akbari' after Akbar’s death?",
+      "options": ["Abul Fazl", "Raja Todar Mal", "Badaoni", "Birbal"],
+      "answer": 0
+    },
+    {
+      "question": "Who initiated revenue settlement called Ryotwari?",
+      "options": ["Sher Shah Suri", "Akbar", "British East India Company", "Aurangzeb"],
+      "answer": 2
+    }
+  ]
+}

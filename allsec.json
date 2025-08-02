@@ -1,0 +1,633 @@
+{
+    "easy":[
+      {
+    "question": "Who is known as the 'Father of Indian Archaeology'?",
+    "options": ["John Marshall", "R. D. Banerjee", "Alexander Cunningham", "Mortimer Wheeler"],
+    "answer": 2
+  },
+  {
+    "question": "Which empire did Akbar belong to?",
+    "options": ["Maurya Empire", "Mughal Empire", "Gupta Empire", "Delhi Sultanate"],
+    "answer": 1
+  },
+  {
+    "question": "Where is the Great Stupa located?",
+    "options": ["Varanasi", "Bodh Gaya", "Sanchi", "Nalanda"],
+    "answer": 2
+  },
+  {
+    "question": "Who led the Salt March in 1930?",
+    "options": ["Jawaharlal Nehru", "Sardar Patel", "Subhas Chandra Bose", "Mahatma Gandhi"],
+    "answer": 3
+  },
+  {
+    "question": "Which city was the capital of the Mauryan Empire under Ashoka?",
+    "options": ["Delhi", "Patliputra", "Kannauj", "Taxila"],
+    "answer": 1
+  },
+  {
+    "question": "Which river valley was the center of the Indus Valley Civilization?",
+    "options": ["Ganga", "Godavari", "Indus", "Yamuna"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the founder of the Maurya Empire?",
+    "options": ["Ashoka", "Bindusara", "Chandragupta Maurya", "Bimbisara"],
+    "answer": 2
+  },
+  {
+    "question": "Which ancient Indian text is a guide to love and relationships?",
+    "options": ["Arthashastra", "Rigveda", "Kamasutra", "Upanishads"],
+    "answer": 2
+  },
+  {
+    "question": "What was the main occupation of people in the Indus Valley Civilization?",
+    "options": ["Farming", "Hunting", "Ironworking", "Sculpting"],
+    "answer": 0
+  },
+  {
+    "question": "The famous city of Mohenjo-daro was located in which present-day country?",
+    "options": ["India", "Bangladesh", "Pakistan", "Nepal"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the famous emperor known for spreading Buddhism outside India?",
+    "options": ["Chandragupta", "Ashoka", "Bimbisara", "Kanishka"],
+    "answer": 1
+  },
+  {
+    "question": "Which Veda contains hymns dedicated to various gods?",
+    "options": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda"],
+    "answer": 0
+  },
+  {
+    "question": "The Great Bath is associated with which ancient civilization?",
+    "options": ["Vedic", "Indus Valley", "Gupta", "Maurya"],
+    "answer": 1
+  },
+  {
+    "question": "Which metal was first used by humans in India?",
+    "options": ["Iron", "Gold", "Bronze", "Copper"],
+    "answer": 3
+  },
+  {
+    "question": "What was the main script used in the Indus Valley Civilization?",
+    "options": ["Brahmi", "Kharosthi", "Unknown script", "Sanskrit"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the only female ruler of the Delhi Sultanate?",
+    "options": ["Rani Lakshmibai", "Razia Sultana", "Ahilyabai Holkar", "Chand Bibi"],
+    "answer": 1
+  },
+  {
+    "question": "What was the main occupation of people in the Indus Valley Civilization?",
+    "options": ["Hunting", "Farming", "Sculpting", "Mining"],
+    "answer": 1
+  }
+      ,{
+      "question": "Who is known as the ‘Father of Indian Archaeology’?",
+      "options": ["James Prinsep", "Alexander Cunningham", "Mortimer Wheeler", "John Marshall"],
+      "answer": 1
+    },
+    {
+      "question": "Which was the earliest civilization in India?",
+      "options": ["Vedic Civilization", "Gupta Empire", "Indus Valley Civilization", "Maurya Empire"],
+      "answer": 2
+    },
+    {
+      "question": "Who wrote the famous ancient Indian text, Arthashastra?",
+      "options": ["Vatsyayana", "Kalidasa", "Kautilya (Chanakya)", "Patanjali"],
+      "answer": 2
+    },
+    {
+      "question": "Which river is associated with the Vedic civilization?",
+      "options": ["Ganga", "Yamuna", "Saraswati", "Narmada"],
+      "answer": 2
+    },
+    {
+      "question": "Where is the Great Bath located?",
+      "options": ["Kalibangan", "Harappa", "Mohenjo-daro", "Dholavira"],
+      "answer": 2
+    },
+    {
+      "question": "Who founded Buddhism, and where?",
+      "options": ["Ashoka, Sarnath", "Gautama Buddha, Lumbini", "Mahavira, Vaishali", "Kanishka, Mathura"],
+      "answer": 1
+    },
+    {
+      "question": "Which empire is known for its Ashokan pillars and inscriptions?",
+      "options": ["Gupta Empire", "Maurya Empire", "Mughal Empire", "Chola Empire"],
+      "answer": 1
+    },
+    {
+      "question": "Who was the famous king of the Gupta Dynasty known as the ‘Indian Napoleon’?",
+      "options": ["Chandragupta I", "Chandragupta II", "Samudragupta", "Skandagupta"],
+      "answer": 2
+    },
+    {
+      "question": "What is the ancient language in which most of the early Indian scriptures are written?",
+      "options": ["Hindi", "Prakrit", "Sanskrit", "Pali"],
+      "answer": 2
+    },
+    {
+      "question": "Who was the first ruler of the Maurya Dynasty?",
+      "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Bimbisara"],
+      "answer": 1
+    },
+    {
+      "question": "Who is considered the 'Father of Modern India'?",
+      "options": ["Dadabhai Naoroji", "Jawaharlal Nehru", "Raja Ram Mohan Roy", "B.R. Ambedkar"],
+      "answer": 2
+    },
+    {
+      "question": "Which social reformer established the Widow Remarriage Association?",
+      "options": ["Raja Ram Mohan Roy", "Dayanand Saraswati", "Ishwar Chandra Vidyasagar", "B.G. Tilak"],
+      "answer": 2
+    },
+    {
+      "question": "Who was the first person to address the United Nations in Hindi?",
+      "options": ["Atal Bihari Vajpayee", "Narendra Modi", "V.K. Krishna Menon", "Jawaharlal Nehru"],
+      "answer": 0
+    },
+    {
+      "question": "Where did Mahatma Gandhi first employ his satyagraha principles?",
+      "options": ["Ahmedabad", "Champaran", "Kheda", "Dandi"],
+      "answer": 1
+    },
+    {
+      "question": "Who was the leader of the Revolt of 1857 in Jhansi?",
+      "options": ["Begum Hazrat Mahal", "Mangal Pandey", "Rani Lakshmibai", "Tantia Tope"],
+      "answer": 2
+    },
+    {
+      "question": "Which treaty brought an end to the independent existence of Peshwa Baji Rao II?",
+      "options": ["Treaty of Salbai", "Treaty of Bassein", "Treaty of Surat", "Treaty of Poona"],
+      "answer": 1
+    },
+    {
+      "question": "Who started the first English newspaper in India?",
+      "options": ["James Augustus Hicky", "Raja Ram Mohan Roy", "Warren Hastings", "Annie Besant"],
+      "answer": 0
+    },
+    {
+      "question": "Which journal was published in Britain by the Committee of the Indian National Congress?",
+      "options": ["The Young India", "India", "Kesari", "The Hindu"],
+      "answer": 1
+    },
+    {
+      "question": "What was the name of the periodical published by Mahatma Gandhi during his stay in South Africa?",
+      "options": ["Young India", "Indian Opinion", "Harijan", "Navjivan"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following reformers was associated with Prarthana Samaj?",
+      "options": ["Raja Ram Mohan Roy", "Atmaram Pandurang", "Swami Dayananda", "Ishwar Chandra Vidyasagar"],
+      "answer": 1
+    },
+    {
+      "question": "Who coined the slogan 'Jai Hind'?",
+      "options": ["Sardar Patel", "Bhagat Singh", "Subhas Chandra Bose", "Jawaharlal Nehru"],
+      "answer": 2
+    },
+    {
+      "question": "Who was the last Governor-General of independent India?",
+      "options": ["Lord Mountbatten", "C. Rajagopalachari", "Jawaharlal Nehru", "Dr. Rajendra Prasad"],
+      "answer": 1
+    },
+    {
+      "question": "Which Congress leader declared the 'Poorna Swaraj' goal in 1929?",
+      "options": ["Subhas Chandra Bose", "Jawaharlal Nehru", "Mahatma Gandhi", "Bal Gangadhar Tilak"],
+      "answer": 1
+    },
+    {
+      "question": "Who was the first Education Minister of independent India?",
+      "options": ["Dr. S. Radhakrishnan", "Maulana Abul Kalam Azad", "C.D. Deshmukh", "Rajendra Prasad"],
+      "answer": 1
+    },
+    {
+      "question": "What was the title of Governor-General changed to in 1858?",
+      "options": ["President", "Viceroy", "Commander-in-Chief", "High Commissioner"],
+      "answer": 1
+    }
+    ],
+    "medium":[
+        {
+    "question": "Who was the founder of the Brahmo Samaj?",
+    "options": ["Swami Vivekananda", "Raja Ram Mohan Roy", "Dayanand Saraswati", "Ishwar Chandra Vidyasagar"],
+    "answer": 1
+  },
+  {
+    "question": "Who led the Revolt of 1857 in Jhansi?",
+    "options": ["Tantia Tope", "Bahadur Shah Zafar", "Rani Lakshmibai", "Begum Hazrat Mahal"],
+    "answer": 2
+  },
+  {
+    "question": "Who composed the famous Sanskrit epic 'Mahabharata'?",
+    "options": ["Valmiki", "Vishnu Sharma", "Vyasa", "Kalidasa"],
+    "answer": 2
+  },
+  {
+    "question": "Which ruler converted to Buddhism after the Kalinga War?",
+    "options": ["Chandragupta Maurya", "Ashoka", "Harshavardhana", "Samudragupta"],
+    "answer": 1
+  },
+  {
+    "question": "The Rigveda is written in which ancient language?",
+    "options": ["Pali", "Sanskrit", "Prakrit", "Brahmi"],
+    "answer": 1
+  },
+  {
+    "question": "Where were the famous Ajanta caves discovered?",
+    "options": ["Madhya Pradesh", "Maharashtra", "Odisha", "Karnataka"],
+    "answer": 1
+  },
+  {
+    "question": "The concept of Zero was developed during which ancient period?",
+    "options": ["Maurya Period", "Gupta Period", "Sangam Period", "Vedic Period"],
+    "answer": 1
+  },
+  {
+    "question": "The Upanishads are books that discuss:",
+    "options": ["Mathematics", "Philosophy", "Politics", "Medicine"],
+    "answer": 1
+  },
+  {
+    "question": "Nalanda University was established during which period?",
+    "options": ["Maurya", "Gupta", "Mughal", "British"],
+    "answer": 1
+  },
+  {
+    "question": "Which ancient king held the Third Buddhist Council?",
+    "options": ["Bimbisara", "Kanishka", "Ashoka", "Ajatashatru"],
+    "answer": 2
+  },
+  {
+    "question": "Which symbol represents 'non-violence' in Jainism?",
+    "options": ["Lotus", "Swastika", "Hand with wheel", "Peepal Tree"],
+    "answer": 2
+  },
+  {
+    "question": "Which ancient text is a guide to statecraft and economy?",
+    "options": ["Manusmriti", "Vedas", "Arthashastra", "Ramayana"],
+    "answer": 2
+  },
+  {
+    "question": "The term 'Sapt Sindhu' refers to:",
+    "options": ["Seven sages", "Seven rivers", "Seven kings", "Seven kingdoms"],
+    "answer": 1
+  },
+  {
+    "question": "Who coined the slogan 'Jai Hind'?",
+    "options": ["Jawaharlal Nehru", "Sardar Patel", "Bhagat Singh", "Subhas Chandra Bose"],
+    "answer": 3
+  },
+  {
+    "question": "Which social reformer was known as the 'Nightingale of India'?",
+    "options": ["Annie Besant", "Indira Gandhi", "Sarojini Naidu", "Vijaya Lakshmi Pandit"],
+    "answer": 2
+  },
+  {
+    "question": "Where did Mahatma Gandhi first employ his satyagraha principles?",
+    "options": ["Champaran", "Dandi", "Ahmedabad", "Kheda"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first person to address the United Nations in Hindi?",
+    "options": ["Atal Bihari Vajpayee", "Narendra Modi", "Rajendra Prasad", "Lal Bahadur Shastri"],
+    "answer": 0
+  },
+  {
+    "question": "Which reformer established the Widow Remarriage Association?",
+    "options": ["Raja Ram Mohan Roy", "Ishwar Chandra Vidyasagar", "M.G. Ranade", "Jyotiba Phule"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the last governor-general of independent India?",
+    "options": ["C. Rajagopalachari", "Lord Mountbatten", "Sardar Vallabhbhai Patel", "Dr. Rajendra Prasad"],
+    "answer": 0
+  },
+  {
+    "question": "Which Congress leader declared the 'Poorna Swaraj' goal in 1929?",
+    "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "B.R. Ambedkar", "Gopal Krishna Gokhale"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first education minister of independent India?",
+    "options": ["Maulana Abul Kalam Azad", "Dr. S. Radhakrishnan", "Jawaharlal Nehru", "C.D. Deshmukh"],
+    "answer": 0
+  },
+  {
+      "question": "The queen's palace at Harappa was built on a raised platform called?",
+      "options": ["Citadel", "Acropolis", "Fort", "Dome"],
+      "answer": 0
+    },
+    {
+      "question": "Megasthenes was an ambassador of which Greek king to India?",
+      "options": ["Alexander", "Seleucus", "Ptolemy", "Antigonus"],
+      "answer": 1
+    },
+    {
+      "question": "During Ashoka’s reign, the main duty of Dhamma Mahamatras was?",
+      "options": ["Collect taxes", "Spread Dharma", "Build roads", "Conduct war"],
+      "answer": 1
+    },
+    {
+      "question": "The Indian astronomical treatise 'Surya Siddhanta' is dated to around?",
+      "options": ["400 CE", "800 CE", "1000 CE", "200 CE"],
+      "answer": 0
+    },
+    {
+      "question": "Who constructed the Iron Pillar of Delhi?",
+      "options": ["Chandragupta II", "Skandagupta", "Harshavardhana", "Ashoka"],
+      "answer": 0
+    },
+    {
+      "question": "Which tool type is most commonly found in Acheulian sites in India?",
+      "options": ["Microliths", "Acheulian hand‑axes", "Bow and arrow", "Chipped flakes"],
+      "answer": 1
+    },
+    {
+      "question": "Where is the Didarganj Yakshi statue currently housed?",
+      "options": ["Patna Museum", "National Museum Delhi", "British Museum", "Mumbai Museum"],
+      "answer": 1
+    },
+    {
+      "question": "Which site revealed the earliest skeletons in India?",
+      "options": ["Rudraprayag", "Rakhigarhi", "Adamgarh", "Bhimbetka"],
+      "answer": 2
+    },
+    {
+      "question": "Which region is famous for Chalcolithic sites in India?",
+      "options": ["Gujarat", "Punjab", "Rajasthan", "Bengal"],
+      "answer": 0
+    },
+    {
+      "question": "Who led the excavations at Mohenjo‑daro in the 1920s?",
+      "options": ["John Marshall", "Mortimer Wheeler", "James Fergusson", "Alexander Cunningham"],
+      "answer": 0
+    },
+    {
+      "question": "What mathematical concept was Bhaskara II known for?",
+      "options": ["Trigonometry", "Algebra", "Calculus", "Geometry"],
+      "answer": 2
+    },
+    {
+      "question": "Who founded ISRO?",
+      "options": ["C.V. Raman", "APJ Abdul Kalam", "Vikram Sarabhai", "Satish Dhawan"],
+      "answer": 2
+    },
+    {
+      "question": "Who developed India's first indigenous missile?",
+      "options": ["Dr. Kalam", "Homi Bhabha", "Vikram Sarabhai", "Dr. Venkatraman"],
+      "answer": 0
+    },
+    {
+      "question": "Where was India’s first rocket launched?",
+      "options": ["Mumbai", "Thumba", "Sriharikota", "Kolkata"],
+      "answer": 1
+    },
+    {
+      "question": "Which emperor built the Iron Pillar of Delhi?",
+      "options": ["Chandragupta II", "Ashoka", "Samudragupta", "Harshavardhana"],
+      "answer": 0
+    },
+    {
+      "question": "Which treaty ended the first Anglo-Mysore War?",
+      "options": ["Treaty of Seringapatam", "Treaty of Madras", "Treaty of Mangalore", "Treaty of Wandiwash"],
+      "answer": 2
+    },
+    {
+      "question": "Who built the famous Charminar?",
+      "options": ["Qutb Shah", "Muhammad bin Tughlaq", "Sher Shah Suri", "Vijayanagara Kings"],
+      "answer": 0
+    },
+    {
+      "question": "Under which ruler did Din-i-Ilahi religion begin?",
+      "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Babur"],
+      "answer": 0
+    },
+    {
+      "question": "The Battle of Panipat in 1526 was fought between Babur and?",
+      "options": ["Sher Shah Suri", "Ibrahim Lodi", "Humayun", "Rana Sanga"],
+      "answer": 1
+    },
+    {
+      "question": "Which ruler abolished the land revenue system of Sher Shah Suri?",
+      "options": ["Akbar", "Humayun", "Aurangzeb", "Jahangir"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the leader of the revolt of 1857 in Kanpur?",
+      "options": ["Bahadur Shah Zafar", "Tantia Tope", "Nana Sahib", "Rani Lakshmibai"],
+      "answer": 2
+    },
+    {
+      "question": "Which act divided Bengal in 1905?",
+      "options": ["Charter Act 1853", "Indian Councils Act 1909", "Partition of Bengal Act", "Government of India Act 1919"],
+      "answer": 2
+    }
+    ],
+    "hard":[
+        {
+      "question": "Which text describes the administrative hierarchy of Mauryan Empire?",
+      "options": ["Mitakshara","Arthashastra","Rajatarangini","Manusmriti"],
+      "answer": 1
+    },
+    {
+    "question": "The Ajivika sect was founded by:",
+    "options": ["Makkhali Gosala", "Mahavira", "Buddha", "Charvaka"],
+    "answer": 0
+  },
+  {
+    "question": "Which dynasty is known for the iron pillar of Delhi?",
+    "options": ["Maurya", "Gupta", "Nanda", "Sunga"],
+    "answer": 1
+  },
+  {
+    "question": "In ancient India, 'Sabha' and 'Samiti' were:",
+    "options": ["Temples", "Military Units", "Tribal Assemblies", "Schools"],
+    "answer": 2
+  },
+  {
+    "question": "Ashoka's inscriptions were mostly written in which language?",
+    "options": ["Sanskrit", "Pali", "Prakrit", "Tamil"],
+    "answer": 2
+  },
+  {
+    "question": "Where is the famous Lion Capital of Ashoka located?",
+    "options": ["Sanchi", "Lumbini", "Vaishali", "Sarnath"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the famous woman philosopher in ancient India mentioned in Upanishads?",
+    "options": ["Maitreyi", "Gargi", "Savitri", "Katyayani"],
+    "answer": 1
+  },
+  {
+    "question": "Who wrote the Arthashastra, an ancient Indian treatise on politics and economics?",
+    "options": ["Kalidasa", "Chanakya", "Valmiki", "Vishnu Sharma"],
+    "answer": 1
+  },
+  {
+    "question": "The Indus Valley people mainly worshipped which symbol?",
+    "options": ["Shiva", "Peepal Tree", "Fire", "Mother Goddess"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is the oldest Veda?",
+    "options": ["Samaveda", "Yajurveda", "Atharvaveda", "Rigveda"],
+    "answer": 3
+  },
+    {
+      "question": "Name the poet who wrote 'Nalodaya' in Gupta period?",
+      "options": ["Kalidasa","Amarasimha","Vakpati Mishra","Harishena"],
+      "answer": 3
+    },
+    {
+      "question": "Which archaeological site yielded evidence of horse remains in Harappan context?",
+      "options": ["Rakhigarhi","Kalibangan","Harappa","Lothal"],
+      "answer": 2
+    },
+    {
+      "question": "The bronze image of 'Dancing Girl' was found at?",
+      "options": ["Harappa","Mohenjo‑daro","Lothal","Dholavira"],
+      "answer": 1
+    },
+    {
+      "question": "Which Gupta ruler assumed the title 'Vikramaditya'?",
+      "options": ["Chandragupta II","Skandagupta","Samudragupta","Kumaragupta I"],
+      "answer": 0
+    },
+    {
+      "question": "Kalhana’s 'Rajatarangini' was written in which century?",
+      "options": ["10th","11th","12th","13th"],
+      "answer": 2
+    },
+    {
+      "question": "The archaeological site of Sanchi contains the Ashoka Chakra design on which structure?",
+      "options": ["Railing pillar", "Stupa dome", "Torana gateways", "Stupa base"],
+      "answer": 2
+    },
+    {
+      "question": "Which ancient inscription marks the southernmost extent of Ashokan edicts?",
+      "options": ["Jatinga", "Maski", "Girnar", "Kandahar"],
+      "answer": 2
+    },
+    {
+      "question": "Which site includes evidence of prehistoric hand-axes dated to 1.5 million years ago?",
+      "options": ["Attirampakkam", "Bhimbetka", "Mehrgarh", "Rakhigarhi"],
+      "answer": 0
+    },
+    {
+      "question": "The Ayodhya site excavations revealed which ancient structural remains?",
+      "options": ["Gupta period temples", "Mauryan pillars", "Harappan platforms", "Shung period shrines"],
+      "answer": 0
+    },
+    {
+      "question": "At which site were terracotta tokens and bullae used as proto accounting found?",
+      "options": ["Banawali", "Lothal", "Harappa", "Kalibangan"],
+      "answer": 0
+    },
+    {
+      "question": "The site of Sarnath is associated with which empire’s capital?",
+      "options": ["Maurya", "Gupta", "Kushan", "Satavahana"],
+      "answer": 0
+    },
+    {
+      "question": "Which site revealed Painted Grey Ware along with rice remains suggesting early Vedic food habits?",
+      "options": ["Kausambi", "Mathura", "Banawali", "Sarnath"],
+      "answer": 0
+    },
+    {
+      "question": "Which Indian mathematician is associated with continued fractions and modular functions?",
+      "options": ["Aryabhata", "Srinivasa Ramanujan", "Bhaskara II", "Brahmagupta"],
+      "answer": 1
+    },
+    {
+      "question": "Which year was Chandrayaan-1 launched?",
+      "options": ["2005", "2007", "2008", "2010"],
+      "answer": 2
+    },
+    {
+      "question": "Which ancient text described 112 surgical instruments?",
+      "options": ["Charaka Samhita", "Sushruta Samhita", "Atharvaveda", "Rigveda"],
+      "answer": 1
+    },
+    {
+      "question": "Which Indian pioneered artificial insemination but was not recognized in his time?",
+      "options": ["J.C. Bose", "Venkatraman Ramakrishnan", "Subhash Mukhopadhyay", "Dr. Kalam"],
+      "answer": 2
+    },
+    {
+      "question": "Who led the Indian National Army during WWII?",
+      "options": ["Bhagat Singh", "Mahatma Gandhi", "Sardar Patel", "Subhas Chandra Bose"],
+      "answer": 3
+    },
+    {
+      "question": "Which 16th-century battle solidified Mughal power in North India?",
+      "options": ["Talikota", "Panipat (1556)", "Haldighati", "Plassey"],
+      "answer": 1
+    },
+    {
+      "question": "Which Sultan of Delhi translated Sanskrit works into Persian?",
+      "options": ["Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Iltutmish", "Alauddin Khilji"],
+      "answer": 1
+    },
+    {
+      "question": "The Persian ambassador Abd al‑Rahim visited India during whose reign?",
+      "options": ["Humayun", "Akbar", "Shah Jahan", "Aurangzeb"],
+      "answer": 1
+    },
+    {
+      "question": "Abul Hasan was the last ruler of which dynasty?",
+      "options": ["Vijayanagara", "Adil Shahi", "Nizam Shahi", "Bahmani"],
+      "answer": 1
+    },
+    {
+      "question": "Who led the rebellion of Jhansi during 1857?",
+      "options": ["Rani Lakshmibai", "Jhalkaribai", "Tatya Tope", "Nana Sahib"],
+      "answer": 0
+    },
+    {
+      "question": "Which architectural style flourished under Shah Jahan?",
+      "options": ["Deccan", "Mughal", "Maratha", "Vijayanagara"],
+      "answer": 1
+    },
+    {
+      "question": "Which Sultan built the fortified city of Siri in Delhi?",
+      "options": ["Alauddin Khilji", "Iltutmish", "Feroz Shah Tughlaq", "Balban"],
+      "answer": 0
+    },
+    {
+      "question": "Which party was founded by Jawaharlal Nehru in 1936?",
+      "options": ["Indian National Congress", "Congress Socialist Party", "Forward Bloc", "Swatantra Party"],
+      "answer": 1
+    },
+    {
+      "question": "Gandhiji's first major movement in India?",
+      "options": ["Non-Cooperation", "Champaran Satyagraha", "Salt March", "Khilafat"],
+      "answer": 1
+    },
+    {
+      "question": "Which act made the Governor-General the direct ruler of India?",
+      "options": ["Pitt’s India Act", "Regulating Act", "Act of 1858", "Charter Act"],
+      "answer": 2
+    },
+    {
+      "question": "When was the Indian Councils Act passed?",
+      "options": ["1858", "1861", "1892", "1909"],
+      "answer": 3
+    },
+    {
+      "question": "Who founded the Servants of India Society?",
+      "options": ["Tilak", "Gokhale", "Gandhi", "Rajagopalachari"],
+      "answer": 1
+    },
+    {
+      "question": "The Treaty of Bassein was signed in?",
+      "options": ["1802", "1818", "1799", "1824"],
+      "answer": 0
+    }
+    ]
+}

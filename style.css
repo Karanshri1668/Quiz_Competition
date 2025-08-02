@@ -1,0 +1,125 @@
+body {
+  font-family: 'Georgia', serif;
+  /* background: #f7f1e3; */
+    background: url(https://wallpapercave.com/wp/wp2244221.jpg) no-repeat center;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  transition: background 0.3s, color 0.3s;
+}
+
+.dark-theme {
+  /* background: #1e1e1e; */
+    background: url(https://wallpapercave.com/wp/wp2244221.jpg) no-repeat center;
+  color: #f5f5f5;
+}
+
+.container {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #fff8dc;
+  border: 3px solid #a0522d;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+  position: relative;
+}
+
+.dark-theme .container {
+  background: #2b2b2b;
+  border-color: #704214;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: 'Times New Roman', serif;
+}
+
+.question-box {
+  margin: 2rem 0;
+  font-size: 2rem;
+  padding: 1rem;
+  border: 2px dashed #b8860b;
+  background: #fffaf0;
+  border-radius: 10px;
+}
+
+.dark-theme .question-box {
+  background: #3a3a3a;
+  border-color: #d2691e;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 1rem;
+}
+
+.option-button {
+  padding: 10px;
+  font-size: 1rem;
+  background: #ffe4b5;
+  border: 2px solid #a0522d;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.option-button:hover {
+  background: #ffdead;
+  transform: scale(1.02);
+}
+
+.option-button.selected {
+  background: #f4a460;
+  color: #fff;
+}
+
+.option-button.correct {
+  background: #228b22;
+  color: #fff;
+}
+
+.option-button.wrong {
+  background: #b22222;
+  color: #fff;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+button {
+  padding: 10px 15px;
+  font-size: 1rem;
+  background: #deb887;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #d2b48c;
+}
+
+.back-btn {
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  font-size: 0.9rem;
+  background: #cd853f;
+}
+
+
+
+#toggleTheme {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 0.9rem;
+  background: #cd853f;
+}

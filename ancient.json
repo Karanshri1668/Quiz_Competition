@@ -1,0 +1,313 @@
+{
+  "easy": [
+    {
+      "question": "Who was the founder of the Maurya Empire?",
+      "options": ["Ashoka", "Chandragupta Maurya", "Harsha", "Bindusara"],
+      "answer": 1
+    },
+    {
+      "question": "The Vedas are written in which language?",
+      "options": ["Hindi", "Pali", "Prakrit", "Sanskrit"],
+      "answer": 3
+    },
+    {
+      "question": "Which river was central to the Indus Valley Civilization?",
+      "options": ["Ganga", "Yamuna", "Saraswati", "Indus"],
+      "answer": 3
+    },
+    {
+      "question": "Ashoka converted to which religion after the Kalinga War?",
+      "options": ["Hinduism", "Jainism", "Buddhism", "Christianity"],
+      "answer": 2
+    },
+    {
+      "question": "Harappan seals were made primarily of?",
+      "options": ["Stone", "Copper", "Terracotta", "Silver"],
+      "answer": 0
+    },
+    {
+      "question": "The city of Taxila was famous for philosophical learning during?",
+      "options": ["Gupta period", "Maurya period", "Sunga period", "Indus Valley period"],
+      "answer": 1
+    },
+    {
+      "question": "Who authored the Arthashastra?",
+      "options": ["Chanakya", "Megasthenes", "Kalidasa", "Ashvaghosha"],
+      "answer": 0
+    },
+    {
+      "question": "Kalidasa was a classical poet in which language?",
+      "options": ["Sanskrit", "Pali", "Prakrit", "Tamil"],
+      "answer": 0
+    },
+    {
+      "question": "The predominant material used in Indus Valley buildings was?",
+      "options": ["Mud bricks", "Stone", "Wood", "Bamboo"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the prophet of Buddhism?",
+      "options": ["Mahavira", "Buddha", "Ashoka", "Kautilya"],
+      "answer": 1
+    },
+    {
+      "question": "The time of Mahabharata war is approximately how many years ago?",
+      "options": ["5000 years", "3000 years", "2000 years", "1000 years"],
+      "answer": 1
+    },
+    {
+      "question": "Which metal was used by Harappans for making tools and ornaments?",
+      "options": ["Gold", "Bronze", "Silver", "Brass"],
+      "answer": 1
+    },
+    {
+      "question": "Which was the capital of the Gupta Empire?",
+      "options": ["Pataliputra", "Ujjain", "Kausambi", "Madurai"],
+      "answer": 0
+    },
+    {
+      "question": "Panini, the Sanskrit grammarian, belonged to which period?",
+      "options": ["Maurya", "Gupta", "Vedic", "Medieval"],
+      "answer": 2
+    },
+    {
+      "question": "The Indus script remains?",
+      "options": ["Fully deciphered", "Partially deciphered", "Undeciphered", "Lost"],
+      "answer": 2
+    },
+    {
+      "question": "The ancient city of Dholavira is located in which modern state?",
+      "options": ["Gujarat", "Punjab", "Rajasthan", "Haryana"],
+      "answer": 0
+    },
+    {
+      "question": "The Sangam literature belongs to which part of India?",
+      "options": ["North", "East", "West", "South"],
+      "answer": 3
+    },
+    {
+      "question": "The Rajatarangini chronicles the history of which region?",
+      "options": ["Maharashtra", "Kashmir", "Punjab", "Gujarat"],
+      "answer": 1
+    },
+    {
+      "question": "Nalanda University was established during which dynasty?",
+      "options": ["Gupta", "Maurya", "Pala", "Chola"],
+      "answer": 0
+    },
+    {
+      "question": "Which rock edicts were spread across South India by Ashoka?",
+      "options": ["Kalinga Edicts", "Minor Rock Edicts", "Major Rock Edicts", "Pillar Edicts"],
+      "answer": 1
+    }
+  ],
+  "medium": [
+    {
+      "question": "The queen's palace at Harappa was built on a raised platform called?",
+      "options": ["Citadel", "Acropolis", "Fort", "Dome"],
+      "answer": 0
+    },
+    {
+      "question": "Megasthenes was an ambassador of which Greek king to India?",
+      "options": ["Alexander", "Seleucus", "Ptolemy", "Antigonus"],
+      "answer": 1
+    },
+    {
+      "question": "During Ashoka’s reign, the main duty of Dhamma Mahamatras was?",
+      "options": ["Collect taxes", "Spread Dharma", "Build roads", "Conduct war"],
+      "answer": 1
+    },
+    {
+      "question": "The Indian astronomical treatise 'Surya Siddhanta' is dated to around?",
+      "options": ["400 CE", "800 CE", "1000 CE", "200 CE"],
+      "answer": 0
+    },
+    {
+      "question": "Who constructed the Iron Pillar of Delhi?",
+      "options": ["Chandragupta II", "Skandagupta", "Harshavardhana", "Ashoka"],
+      "answer": 0
+    },
+    {
+      "question": "The Harappan civilization traded with Mesopotamia via?",
+      "options": ["Silk Road", "Indus rivers", "Arabian Sea", "Himalayas"],
+      "answer": 2
+    },
+    {
+      "question": "Which rock-cut architecture is older: Ajanta or Ellora?",
+      "options": ["Ajanta", "Ellora", "Both same", "Neither"],
+      "answer": 0
+    },
+    {
+      "question": "The institution of 'Gana-Sangha' was prevalent in which ancient state?",
+      "options": ["Magadha", "Kashi", "Lichchhavi", "Kosala"],
+      "answer": 2
+    },
+    {
+      "question": "Kanishka convened the 4th Buddhist Council at?",
+      "options": ["Nalanda", "Vaishali", "Taxila", "Pataliputra"],
+      "answer": 0
+    },
+    {
+      "question": "Bhakti movement started around which century in India?",
+      "options": ["7th", "9th", "11th", "13th"],
+      "answer": 2
+    },
+    {
+      "question": "Who built the Great Stupa at Sanchi?",
+      "options": ["Ashoka", "Satavahana kings", "Guptas", "Mauryas"],
+      "answer": 1
+    },
+    {
+      "question": "The Edicts of Ashoka were written in which script in the northwest?",
+      "options": ["Brahmi", "Kharosthi", "Devanagari", "Pali"],
+      "answer": 1
+    },
+    {
+      "question": "The concept of 'Zero' (shunya) was first documented by?",
+      "options": ["Aryabhata", "Brahmagupta", "Panini", "Pingala"],
+      "answer": 1
+    },
+    {
+      "question": "The ancient port of Lothal was located near which Gulf?",
+      "options": ["Gulf of Kutch", "Gulf of Mannar", "Bay of Bengal", "Arabian Sea"],
+      "answer": 0
+    },
+    {
+      "question": "Which capital of Mauryas had the royal mint?",
+      "options": ["Pataliputra","Taxila","Ujjain","Mathura"],
+      "answer": 0
+    },
+    {
+      "question": "The earliest Indian literature in regional language is?",
+      "options": ["Tolkappiyam", "Gajastha Madhana","Gatha Saptashati","Meharban Ki Kahani"],
+      "answer": 0
+    },
+    {
+      "question": "Which school of sculpture flourished under the Guptas?",
+      "options": ["Mathura", "Amaravati", "Sarnath", "Khajuraho"],
+      "answer": 2
+    },
+    {
+      "question": "Kalidasa’s “Meghaduta” belongs to which genre?",
+      "options": ["Play", "Lyric", "Epic", "Prose"],
+      "answer": 1
+    },
+    {
+      "question": "Name the lake-city mentioned by Megasthenes?",
+      "options": ["Sirkap","Pataliputra","Kusumpur","Takshashila"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the last ruler of the Satavahana dynasty?",
+      "options": ["Hāla", "Gautamiputra Satakarni", "Vīma Takto", "Yajna Sri Satakarni"],
+      "answer": 0
+    }
+  ],
+  "hard": [
+    {
+      "question": "Which text describes the administrative hierarchy of Mauryan Empire?",
+      "options": ["Mitakshara","Arthashastra","Rajatarangini","Manusmriti"],
+      "answer": 1
+    },
+    {
+      "question": "Name the poet who wrote 'Nalodaya' in Gupta period?",
+      "options": ["Kalidasa","Amarasimha","Vakpati Mishra","Harishena"],
+      "answer": 3
+    },
+    {
+      "question": "Which archaeological site yielded evidence of horse remains in Harappan context?",
+      "options": ["Rakhigarhi","Kalibangan","Harappa","Lothal"],
+      "answer": 2
+    },
+    {
+      "question": "The bronze image of 'Dancing Girl' was found at?",
+      "options": ["Harappa","Mohenjo‑daro","Lothal","Dholavira"],
+      "answer": 1
+    },
+    {
+      "question": "Which Gupta ruler assumed the title 'Vikramaditya'?",
+      "options": ["Chandragupta II","Skandagupta","Samudragupta","Kumaragupta I"],
+      "answer": 0
+    },
+    {
+      "question": "Kalhana’s 'Rajatarangini' was written in which century?",
+      "options": ["10th","11th","12th","13th"],
+      "answer": 2
+    },
+    {
+      "question": "Which earliest known Indian author on grammar preceded Panini?",
+      "options": ["Yaska","Patanjali","Patanjali","Bhartrihari"],
+      "answer": 0
+    },
+    {
+      "question": "The mound of 'Great Bath' is in which Harappan site?",
+      "options": ["Dholavira","Harappa","Mohenjo‑daro","Banawali"],
+      "answer": 2
+    },
+    {
+      "question": "Which Buddhist text is attributed to Nagarjuna?",
+      "options": ["Prajnaparamita","Abhidharma","Srimala Sutra","Mahavamsa"],
+      "answer": 0
+    },
+    {
+      "question": "The copper hoard culture belongs to which timeframe?",
+      "options": ["Iron Age","Bronze Age","Early Historic","Mesolithic"],
+      "answer": 0
+    },
+    {
+      "question": "Which Indian medical text predates Sushruta Samhita?",
+      "options": ["Charaka Samhita","Babylonian Oath","Atharva Veda","Rig Veda"],
+      "answer": 2
+    },
+    {
+      "question": "Name the philosopher who commented on Nyaya Sutras?",
+      "options": ["Dignaga","Vacaspati Misra","Shankara","Bhaskara"],
+      "answer": 0
+    },
+    {
+      "question": "First silver punch-marked coins in India date from?",
+      "options": ["6th century BCE","4th century BCE","2nd century BCE","1st century BCE"],
+      "answer": 0
+    },
+    {
+      "question": "The site of Didarganj Yakshi is associated with which period?",
+      "options": ["Maurya","Satavahana","Gupta","Kushan"],
+      "answer": 2
+    },
+    {
+      "question": "Who translated Greek works into Sanskrit in Gupta period?",
+      "options": ["Aryabhata","Harishena","Vatsyayana","Kumarila Bhatta"],
+      "answer": 1
+    },
+    {
+      "question": "Which temples at Udayagiri were patronized by Chandragupta II?",
+      "options": ["Mritunjaya cave","Bajoragiri","Mandagiri","Vedagiri"],
+      "answer": 0
+    },
+    {
+      "question": "Which grammarian wrote commentary on Ashtadhyayi?",
+      "options": ["Patanjali","Yaska","Prabhakara","Bhaskara"],
+      "answer": 0
+    },
+    {
+      "question": "Which Gupta text details hand-to-hand combat?",
+      "options": ["Kautilya’s Arthashastra","Manasollasa","Natya Shastra","Shilpa Shastra"],
+      "answer": 0
+    },
+    {
+      "question": "In Harappan seals, animal figure of 'unicorn' is major motif. True or False?",
+      "options": ["True","False","Sometimes","Rarely"],
+      "answer": 0
+    },
+    {
+      "question": "What does 'Indra' signify in the Rig Veda?",
+      "options": ["Sun","Thunder","Earth","Wind"],
+      "answer": 1
+    },
+    {
+      "question": "Which famous inscription is found on the Ashoka pillar at Lauriya-Nandangarh?",
+      "options": ["Major Rock Edict","Minor Rock Edict","Pillar Edict","Charter Inscription"],
+      "answer": 2
+    }
+  ]
+}

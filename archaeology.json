@@ -1,0 +1,313 @@
+{
+  "easy": [
+    {
+      "question": "Which famous cave paintings are located in Maharashtra?",
+      "options": ["Bhimbetka", "Ajanta", "Ellora", "Sanchi"],
+      "answer": 1
+    },
+    {
+      "question": "In which Indian state is the archaeological site of Nalanda located?",
+      "options": ["Bihar", "Uttar Pradesh", "West Bengal", "Madhya Pradesh"],
+      "answer": 0
+    },
+    {
+      "question": "What is the primary material of Mohenjo‑daro’s ‘Great Bath’?",
+      "options": ["Brick and waterproof plaster", "Stone slabs", "Wood and earth", "Terracotta tiles"],
+      "answer": 0
+    },
+    {
+      "question": "Which artifact group is associated with the Harappan civilization?",
+      "options": ["Terracotta figurines", "Bronze statues", "Unicorn seals", "Stone stelae"],
+      "answer": 2
+    },
+    {
+      "question": "The city of Lothal was known for its dockyard on which sea?",
+      "options": ["Arabian Sea", "Bay of Bengal", "Arctic Ocean", "Red Sea"],
+      "answer": 0
+    },
+    {
+      "question": "Bhimbetka rock shelters feature which kind of prehistoric art?",
+      "options": ["Cave paintings", "Stone carvings", "Pottery designs", "Text inscriptions"],
+      "answer": 0
+    },
+    {
+      "question": "Which structure is an example of megalithic architecture in India?",
+      "options": ["Sanchi Stupa", "Ashokan Pillar", "Stone circles", "Sun Temple"],
+      "answer": 2
+    },
+    {
+      "question": "The capital of the Kushan Empire, now an archaeological site, is?",
+      "options": ["Pataliputra", "Taxila", "Lothal", "Mohenjo‑daro"],
+      "answer": 1
+    },
+    {
+      "question": "Which excavation site revealed the Dancing Girl bronze?",
+      "options": ["Harappa", "Mohenjo‑daro", "Kalibangan", "Dholavira"],
+      "answer": 1
+    },
+    {
+      "question": "Amravati Stupa is located in which state?",
+      "options": ["Maharashtra", "Andhra Pradesh", "Tamil Nadu", "Karnataka"],
+      "answer": 1
+    },
+    {
+      "question": "Which site is famous for its Greek-influenced Buddhist art?",
+      "options": ["Ajanta", "Ellora", "Sanchi", "Gandhara"],
+      "answer": 3
+    },
+    {
+      "question": "Which archaeological site in India was underwater until early excavations?",
+      "options": ["Lothal", "Harappa", "Dholavira", "Kalibangan"],
+      "answer": 0
+    },
+    {
+      "question": "Nalanda University was destroyed by which invader?",
+      "options": ["Alexander", "Tamerlane", "Babar", "Bakhtiyar Khilji"],
+      "answer": 3
+    },
+    {
+      "question": "Which ancient Indian site is called the Dholavira Signboard?",
+      "options": ["Stone stele with script", "Bronze tablet", "Terracotta plaque", "Rock carving"],
+      "answer": 0
+    },
+    {
+      "question": "Which Indian archaeological site has a well-planned drainage system?",
+      "options": ["Mohenjo‑daro", "Harappa", "Lothal", "All of these"],
+      "answer": 3
+    },
+    {
+      "question": "Stone henges in India are known as?",
+      "options": ["Dolmens", "Menhirs", "Burrs", "Cairns"],
+      "answer": 1
+    },
+    {
+      "question": "Which site has one of the oldest iron artifacts in India?",
+      "options": ["Hallur", "Bhirrana", "Lothal", "Banawali"],
+      "answer": 0
+    },
+    {
+      "question": "At which site were large-scale terracotta workshops found?",
+      "options": ["Kalibangan", "Harappa", "Rakhigarhi", "Mohenjo‑daro"],
+      "answer": 2
+    },
+    {
+      "question": "Which Indian archaeological site is associated with the Harappan ‘Great Granary’?",
+      "options": ["Harappa", "Lothal", "Banawali", "Dholavira"],
+      "answer": 0
+    },
+    {
+      "question": "Where was the Lost City of Indus script signboard found?",
+      "options": ["Harappa", "Dholavira", "Lothal", "Kalibangan"],
+      "answer": 1
+    }
+  ],
+  "medium": [
+    {
+      "question": "Which tool type is most commonly found in Acheulian sites in India?",
+      "options": ["Microliths", "Acheulian hand‑axes", "Bow and arrow", "Chipped flakes"],
+      "answer": 1
+    },
+    {
+      "question": "Where is the Didarganj Yakshi statue currently housed?",
+      "options": ["Patna Museum", "National Museum Delhi", "British Museum", "Mumbai Museum"],
+      "answer": 1
+    },
+    {
+      "question": "Which site revealed the earliest skeletons in India?",
+      "options": ["Rudraprayag", "Rakhigarhi", "Adamgarh", "Bhimbetka"],
+      "answer": 2
+    },
+    {
+      "question": "Which region is famous for Chalcolithic sites in India?",
+      "options": ["Gujarat", "Punjab", "Rajasthan", "Bengal"],
+      "answer": 0
+    },
+    {
+      "question": "Who led the excavations at Mohenjo‑daro in the 1920s?",
+      "options": ["John Marshall", "Mortimer Wheeler", "James Fergusson", "Alexander Cunningham"],
+      "answer": 0
+    },
+    {
+      "question": "The Ajanta caves belong to which period?",
+      "options": ["Gupta", "Satavahana", "Chalukya", "Pallava"],
+      "answer": 0
+    },
+    {
+      "question": "Which ancient script was used in the Indus Valley?",
+      "options": ["Brahmi", "Kharosthi", "Indus script", "Prakrit"],
+      "answer": 2
+    },
+    {
+      "question": "Gandhara art flourished under which dynasty?",
+      "options": ["Maurya", "Kushan", "Gupta", "Satavahana"],
+      "answer": 1
+    },
+    {
+      "question": "Which pillar edict site is found in the state of Odisha?",
+      "options": ["Sankissa", "Lalitgiri", "Rameshwaram", "Kandahar"],
+      "answer": 0
+    },
+    {
+      "question": "Which archaeological site in India is known for painted monochrome pottery?",
+      "options": ["Malwa", "Ahar", "Kalibangan", "Jhukar"],
+      "answer": 2
+    },
+    {
+      "question": "Which rock-cut Jain monuments are near Ellora caves?",
+      "options": ["Amarkantak", "Ranakpur", "Udayagiri", "Kundalpur"],
+      "answer": 2
+    },
+    {
+      "question": "Barabar Caves were built by which ruler?",
+      "options": ["Ashoka", "Ashoka's grandson", "Bindusara", "Harshavardhana"],
+      "answer": 0
+    },
+    {
+      "question": "Which site contains evidence of early rice cultivation in India?",
+      "options": ["Mehrgarh", "Banawali", "Kalibangan", "Harappa"],
+      "answer": 0
+    },
+    {
+      "question": "The Bhir Mound excavations represent which ancient city?",
+      "options": ["Taxila", "Pataliputra", "Harappa", "Kalibangan"],
+      "answer": 0
+    },
+    {
+      "question": "Which era’s pottery is associated with Ahar-Banas culture?",
+      "options": ["Chalcolithic", "Neolithic", "Iron Age", "Paleolithic"],
+      "answer": 0
+    },
+    {
+      "question": "Which Indian state has the site of Bhimbetka?",
+      "options": ["Madhya Pradesh", "Chhattisgarh", "Odisha", "Bihar"],
+      "answer": 0
+    },
+    {
+      "question": "The site of Taxila is in which modern country?",
+      "options": ["India", "Pakistan", "Afghanistan", "Nepal"],
+      "answer": 1
+    },
+    {
+      "question": "Which archaeological method was pioneered by Wheeler in India?",
+      "options": ["Carbon dating", "Stratigraphic excavation", "Lidar scanning", "Ground-penetrating radar"],
+      "answer": 1
+    },
+    {
+      "question": "Where were chaukhandi stupa and Sarnath excavated?",
+      "options": ["Nalanda", "Sarnath", "Harappa", "Ajanta"],
+      "answer": 1
+    },
+    {
+      "question": "Which site is associated with the Painted Grey Ware culture?",
+      "options": ["Rakhigarhi", "Ahar", "Banawali", "Sarnath"],
+      "answer": 3
+    },
+    {
+      "question": "Which site shows evidence of early cotton cultivation?",
+      "options": ["Mehrgarh", "Harappa", "Mohenjo-daro", "Kalibangan"],
+      "answer": 1
+    }
+  ],
+  "hard": [
+    {
+      "question": "Which Indian Harappan site shows evidence of dockyard orientation aligned with cardinal directions?",
+      "options": ["Lothal", "Harappa", "Dholavira", "Kalibangan"],
+      "answer": 0
+    },
+    {
+      "question": "The 'Priest-King' statue was discovered at which site?",
+      "options": ["Harappa", "Mohenjo-daro", "Lothal", "Rakhigarhi"],
+      "answer": 1
+    },
+    {
+      "question": "Which archaeologist discovered the Yogini Temple at Khajuraho?",
+      "options": ["Cousens", "Marshall", "Smith", "Deva"],
+      "answer": 0
+    },
+    {
+      "question": "The Amaravathi Stupa site belongs to which dynasty?",
+      "options": ["Satavahana", "Gupta", "Maurya", "Chola"],
+      "answer": 0
+    },
+    {
+      "question": "Which ancient city shows evidence of late Harappan fortification walls made of mud-brick?",
+      "options": ["Dholavira", "Harappa", "Banawali", "Rakhigarhi"],
+      "answer": 2
+    },
+    {
+      "question": "The archaeological site of Sanchi contains the Ashoka Chakra design on which structure?",
+      "options": ["Railing pillar", "Stupa dome", "Torana gateways", "Stupa base"],
+      "answer": 2
+    },
+    {
+      "question": "Which ancient inscription marks the southernmost extent of Ashokan edicts?",
+      "options": ["Jatinga", "Maski", "Girnar", "Kandahar"],
+      "answer": 2
+    },
+    {
+      "question": "Which site includes evidence of prehistoric hand-axes dated to 1.5 million years ago?",
+      "options": ["Attirampakkam", "Bhimbetka", "Mehrgarh", "Rakhigarhi"],
+      "answer": 0
+    },
+    {
+      "question": "The Ayodhya site excavations revealed which ancient structural remains?",
+      "options": ["Gupta period temples", "Mauryan pillars", "Harappan platforms", "Shung period shrines"],
+      "answer": 0
+    },
+    {
+      "question": "At which site were terracotta tokens and bullae used as proto accounting found?",
+      "options": ["Banawali", "Lothal", "Harappa", "Kalibangan"],
+      "answer": 0
+    },
+    {
+      "question": "The site of Sarnath is associated with which empire’s capital?",
+      "options": ["Maurya", "Gupta", "Kushan", "Satavahana"],
+      "answer": 0
+    },
+    {
+      "question": "Which site revealed Painted Grey Ware along with rice remains suggesting early Vedic food habits?",
+      "options": ["Kausambi", "Mathura", "Banawali", "Sarnath"],
+      "answer": 0
+    },
+    {
+      "question": "Who excavated the Harappa ruins in the 1920s?",
+      "options": ["John Marshall", "Mortimer Wheeler", "Alexander Cunningham", "James Fergusson"],
+      "answer": 0
+    },
+    {
+      "question": "Which archaeological process pioneered by Wheeler involves grid squares and baulk walls?",
+      "options": ["Surface survey", "Stratigraphy", "Wheeler-Kilmartin method", "LIDAR scanning"],
+      "answer": 2
+    },
+    {
+      "question": "The site of Maski is famous for containing which unique feature in Ashokan inscriptions?",
+      "options": ["Telugu script", "Edict naming Ashoka personally", "Pillar fragment", "Unique carving"],
+      "answer": 1
+    },
+    {
+      "question": "Which Dravidian architecture site was excavated by Stuart Piggott?",
+      "options": ["Mezhathur", "Meenakshi Temple", "Harappa", "Mehrgarh"],
+      "answer": 0
+    },
+    {
+      "question": "At which site in India was the world's oldest known textile discovered?",
+      "options": ["Mehrgarh", "Harappa", "Mohenjo-daro", "Kalibangan"],
+      "answer": 0
+    },
+    {
+      "question": "Which site had evidence of proto‑urban planning with reservoirs and reservoirs aligned north‑south?",
+      "options": ["Dholavira", "Harappa", "Banawali", "Mohenjo‑daro"],
+      "answer": 0
+    },
+    {
+      "question": "Who deciphered the Mohenjo‑daro seal script partially?",
+      "options": ["Asko Parpola", "Mortimer Wheeler", "John Marshall", "Alexander Cunningham"],
+      "answer": 0
+    },
+    {
+      "question": "Which site’s excavations provided earliest evidence of copper metallurgy in India?",
+      "options": ["Mehrgarh", "Rakhigarhi", "Harappa", "Dholavira"],
+      "answer": 0
+    }
+  ]
+}
